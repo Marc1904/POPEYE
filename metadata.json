@@ -1,7 +1,28 @@
 {
     "name": "Popeye The Pirate Parrot",
     "symbol": "POPEYE",
-    "uri": "https://example.com/token_metadata.json",
-    "uri_hash": "QmSfj8Xj58Y35dTwbmuv5hbr8V3Xs63fJPtZC3mD7cmyC2",
-    "creators": null
+    "description": "World's first ever treasure hunt cryptocurrency.",
+    "image": "https://github.com/Marc1904/POPEYE/blob/main/POPEYE.png",
+    "external_url": "https://www.popeyehunt.com/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://example.com/mytoken.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "token",
+      "creators": [
+        {
+          "address": "Hmr7eNeTG1aLP1GGEu2fs5iCZ28JJmugVwaHmTcWTTRe",
+          "share": 0
+        }
+      ]
+    }
   }
